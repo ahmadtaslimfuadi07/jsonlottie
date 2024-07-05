@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.esteh.example_eshop",
+    "sha256_cert_fingerprints":
+    ["6A:1E:01:7D:D0:ED:B5:0E:4F:5A:B1:44:6C:96:AE:71:DB:A7:89:50:EA:DE:1F:C3:88:CD:78:C0:60:49:F2:FF"]
+  }
+}]
